@@ -20,7 +20,7 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/gogul b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gogul b" height="30" width="40"/></a>
-  <a href="https://instagram.com/gokul_jijo_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul_jijo_" height="30" width="40"/></a>
+  <a href="https://instagram.com/_gokul_jijo_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gokul_jijo_" height="30" width="40"/></a>
 </p>
 
 <h3 align="center">🛠 Languages and Tools:</h3>
