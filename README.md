@@ -104,6 +104,24 @@
   </p>
 </div>
 </details>
+<details>
+	<br>
+	<summary>Projects</summary>
+<details> <br> <summary>Food Ordering App</summary> <br> <p> <h1>Food Ordering App</h1> - **Tech Stack**: MERN (MongoDB, Express, React, Node.js) - **Features**: - User authentication using JWT for secure login/signup. - Product and category display with cart and checkout functionality. - Discount logic for checkout. - **Tools**: Mongoose, Bcrypt, Axios, React-Bootstrap. <br>**Link**: [Khalids Kitchen](https://foodapp-mern-by-gogul.netlify.app/) <br> **NOTE**:its backend was deployed in a free tier hosting server .So the server will not be awake all the time</p>
+	
+</details> <br> <details> <br> <summary>Task Management App</summary> <br><p> <h1>Task Management App</h1> - **Tech Stack**: MERN - **Features**: - Create, update, and manage tasks with priority and deadlines. - User-specific task handling with authentication. - **Tools**: MERN Stack. <br> **Link**: [Task Manager](https://task-manager-gogul924.netlify.app/) <br> **NOTE**:its backend was deployed in a free tier hosting server .So the server will not be awake all the time </p><br>
+
+</details><br> <details> <br> <summary>AI Chat App</summary><br> <p> <h1>AI Chat App</h1> - **Tech Stack**: React, Tailwind CSS - **Features**: - Interactive chatbot implemented using the GEMINI AI API. - Styled with React and Tailwind CSS. - **Tools**: Axios, React, Bootstrap CSS.  <br> **Link**: [Chat-Bot](https://chatai-react-gogul-b.netlify.app/) </p> <br></details> <br>
+
+<details> <br> <summary>Weather App</summary> <br> <p> <h1>Weather App</h1> - **Tech Stack**: JavaScript, Bootstrap CSS - **Features**: - Fetch and display current weather data using the OpenWeatherMap API. - Displays temperature, humidity, and weather description with error handling. - **Tools**: JavaScript, Bootstrap CSS. </p> <br></details><br>
+<details>
+	<br>
+	<summary>Frontend only wesites</summary>
+	<br>
+	 **Link**: [Gym-Fluencer](https://gymfluencer-gogul.netlify.app/) <br>
+	 **Link**: [Hobot](https://habotwebpage.netlify.app/)<br>
+</details>
+</details>
 
 <details>
   <summary>Quote</summary>
